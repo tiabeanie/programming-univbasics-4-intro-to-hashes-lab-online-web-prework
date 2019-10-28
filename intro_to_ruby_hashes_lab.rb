@@ -20,7 +20,6 @@ end
 
 def read_from_hash(hash, key)
   :name => Steve
-  :name
 end
 
 def update_counting_hash(hash, key)
